@@ -1,0 +1,48 @@
+*{
+    
+    background-color: rgb(255, 255, 255);
+}
+
+h1{ 
+    color: rgb(0, 15, 22);
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
+
+/*clases*/
+
+.lista1Color {
+color: rgb(0, 0, 0);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lista2Color {
+color: rgb(52, 52, 52);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lista3Color{
+color: rgb(124, 124, 124);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Imagen-centro{
+    text-align: center;
+}
+
+.Imagen2{
+    border: 10px solid rgb(0, 0, 0);
+}
+
+/*Id*/
+p#descripcion {
+    text-align: center;
+    font-family:'Franklin Gothic Medium','Arial Narrow', Arial, sans-serif;
+}
+
+h2#contacto {
+    color: rgb(171, 171, 171);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
